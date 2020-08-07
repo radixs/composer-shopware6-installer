@@ -1,6 +1,6 @@
 {
     "name": "radixs/composer-shopware6-installer",
-    "description": "Shopware 6 installer for Shopware 6",
+    "description": "Shopware 6 plugin installer for composer",
     "type": "composer-plugin",
     "license": "MIT",
     "authors": [
