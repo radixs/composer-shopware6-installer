@@ -1,0 +1,23 @@
+{
+    "name": "radixs/composer-shopware6-installer",
+    "description": "Shopware 6 installer for Shopware 6",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Radoslaw Kurowski",
+            "email": "radix@salvilnes.eu"
+        }
+    ],
+    "extra": {
+        "class": "ComposerShopware6Installer\\ComposerShopware6InstallerPlugin"
+    },
+    "autoload": {
+        "psr-4": { "ComposerShopware6Installer\\": "src/" }
+    },
+    "require": {
+        "composer-plugin-api": "^1.0"
+    },
+    "require-dev": {
+    }
+}
