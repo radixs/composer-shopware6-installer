@@ -1,0 +1,1 @@
+# composer-shopware6-installer
